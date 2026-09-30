@@ -21,17 +21,35 @@
     </LogicalFolder>
     <LogicalFolder Name="Запросы" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="SQLQuery1.sql">
+        <FileNode Name="L2_createtable.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WEIN\SEKAIITD:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>WEIN\SEKAIITD</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1.sql</FullPath>
+          <FullPath>L2_createtable.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery2.sql">
+        <FileNode Name="L2_DataTypes.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WEIN\SEKAIITD:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>WEIN\SEKAIITD</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery2.sql</FullPath>
+          <FullPath>L2_DataTypes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="L2_InsertData.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WEIN\SEKAIITD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WEIN\SEKAIITD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>L2_InsertData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="lessonSSQL1_1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WEIN\SEKAIITD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WEIN\SEKAIITD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>lessonSSQL1_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="lessonSSQL1_2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WEIN\SEKAIITD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WEIN\SEKAIITD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>lessonSSQL1_2.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

@@ -12,17 +12,17 @@ CREATE DATABASE ShopDB
 ON PRIMARY 
 (
     NAME = 'ShopDB_Primary',
-    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\ShopDB_Primary.mdf'
+    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SEKAIITD\MSSQL\DATA\ShopDB_Primary.mdf'
 ),
 FILEGROUP FG_Products 
 (
     NAME = 'ShopDB_Products',
-    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\ShopDB_Products.ndf'
+    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SEKAIITD\MSSQL\DATA\ShopDB_Products.ndf'
 ),
 FILEGROUP FG_Sales   
 (
     NAME = 'ShopDB_Sales',
-    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\ShopDB_Sales.ndf'
+    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SEKAIITD\MSSQL\DATA\ShopDB_Sales.ndf'
 );
 GO
 
@@ -33,6 +33,14 @@ IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = 'AdventureWorks2019')
 BEGIN
     PRINT 'ОШИБКА: База данных AdventureWorks2019 не найдена! Разверните .bak файл перед выполнением импорта.';
 END
+GO
+
+DROP TABLE IF EXISTS dbo.SalesOrderDetails;
+DROP TABLE IF EXISTS dbo.SalesOrders;
+DROP TABLE IF EXISTS dbo.Customers;
+DROP TABLE IF EXISTS dbo.Vendors;
+DROP TABLE IF EXISTS dbo.Products;
+DROP TABLE IF EXISTS dbo.ProductCategories;
 GO
 
 

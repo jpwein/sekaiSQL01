@@ -12,17 +12,17 @@ CREATE DATABASE AdvancedDb
 ON PRIMARY 
 (
     NAME = 'AdvancedDb_Primary',
-    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdvancedDb_Primary.mdf'
+    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SEKAIITD\MSSQL\DATA\AdvancedDb_Primary.mdf'
 ),
 FILEGROUP FastFG
 (
     NAME = 'AdvancedDb_Fast',
-    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdvancedDb_Fast.ndf'
+    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SEKAIITD\MSSQL\DATA\AdvancedDb_Fast.ndf'
 ),
 FILEGROUP SlowFG
 (
     NAME = 'AdvancedDb_Slow',
-    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\AdvancedDb_Slow.ndf'
+    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SEKAIITD\MSSQL\DATA\AdvancedDb_Slow.ndf'
 );
 GO
 

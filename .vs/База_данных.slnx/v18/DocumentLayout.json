@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L10_Indexes_Filegroups.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L11_ShopDB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L11_ShopDB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L12_TestingDB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L12_TestingDB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     },
@@ -54,35 +62,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "L10_Indexes_Filegroups.sql - WEIN\\SEKAIITD.master (WEIN\\weinn (71))",
-              "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L10_Indexes_Filegroups.sql",
-              "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L10_Indexes_Filegroups.sql",
-              "ToolTip": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L10_Indexes_Filegroups.sql - WEIN\\SEKAIITD.master (WEIN\\weinn (71))",
-              "RelativeToolTip": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L10_Indexes_Filegroups.sql - WEIN\\SEKAIITD.master (WEIN\\weinn (71))",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-30T14:48:14.339Z",
-              "EditorCaption": " - WEIN\\SEKAIITD.master (WEIN\\weinn (71))"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "L9_SteamDB.sql - WEIN\\SEKAIITD.master (WEIN\\weinn (63))",
-              "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql",
-              "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql",
-              "ToolTip": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql - WEIN\\SEKAIITD.master (WEIN\\weinn (63))",
-              "RelativeToolTip": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql - WEIN\\SEKAIITD.master (WEIN\\weinn (63))",
+              "Title": "L11_ShopDB.sql - WEIN\\SEKAIITD.ShopDB (WEIN\\weinn (70))",
+              "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L11_ShopDB.sql",
+              "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L11_ShopDB.sql",
+              "ToolTip": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L11_ShopDB.sql - WEIN\\SEKAIITD.ShopDB (WEIN\\weinn (70))",
+              "RelativeToolTip": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L11_ShopDB.sql - WEIN\\SEKAIITD.ShopDB (WEIN\\weinn (70))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-30T14:43:39.626Z",
-              "EditorCaption": " - WEIN\\SEKAIITD.master (WEIN\\weinn (63))"
+              "WhenOpened": "2026-09-30T14:58:08.927Z",
+              "EditorCaption": " - WEIN\\SEKAIITD.ShopDB (WEIN\\weinn (70))"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "L12_TestingDB.sql - WEIN\\SEKAIITD.ShopDB (WEIN\\weinn (162))",
+              "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L12_TestingDB.sql",
+              "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L12_TestingDB.sql",
+              "ToolTip": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L12_TestingDB.sql - WEIN\\SEKAIITD.ShopDB (WEIN\\weinn (162))",
+              "RelativeToolTip": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L12_TestingDB.sql - WEIN\\SEKAIITD.ShopDB (WEIN\\weinn (162))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-30T14:57:07.57Z",
+              "EditorCaption": " - WEIN\\SEKAIITD.ShopDB (WEIN\\weinn (162))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "L10_Indexes_Filegroups.sql - WEIN\\SEKAIITD.master (WEIN\\weinn (57))",
+              "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L10_Indexes_Filegroups.sql",
+              "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L10_Indexes_Filegroups.sql",
+              "ToolTip": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L10_Indexes_Filegroups.sql - WEIN\\SEKAIITD.master (WEIN\\weinn (57))",
+              "RelativeToolTip": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L10_Indexes_Filegroups.sql - WEIN\\SEKAIITD.master (WEIN\\weinn (57))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-30T14:48:14.339Z",
+              "EditorCaption": " - WEIN\\SEKAIITD.master (WEIN\\weinn (57))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "L9_SteamDB.sql",
+              "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql",
+              "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql",
+              "ToolTip": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql",
+              "RelativeToolTip": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L9_SteamDB.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-30T14:43:39.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "L8_ClusteredIndex.sql",
               "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L8_ClusteredIndex.sql",
               "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L8_ClusteredIndex.sql",
@@ -94,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "L4_DataTypes_DateTime.sql",
               "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L4_DataTypes_DateTime.sql",
               "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L4_DataTypes_DateTime.sql",
@@ -106,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "L3_TransferTable.sql",
               "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L3_TransferTable.sql",
               "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L3_TransferTable.sql",
@@ -118,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "L3_CreateSchemas.sql",
               "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L3_CreateSchemas.sql",
               "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L3_CreateSchemas.sql",
@@ -130,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "L2_InsertData.sql",
               "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L2_InsertData.sql",
               "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L2_InsertData.sql",
@@ -142,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "L2_createtable.sql",
               "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L2_createtable.sql",
               "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L2_createtable.sql",
@@ -154,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "L2_DataTypes.sql",
               "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L2_DataTypes.sql",
               "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L2_DataTypes.sql",
@@ -166,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "L1_DeleteDB.sql",
               "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L1_DeleteDB.sql",
               "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L1_DeleteDB.sql",
@@ -178,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "L1_AddDB.sql",
               "DocumentMoniker": "C:\\Users\\weinn\\Documents\\SQL Server Management Studio\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L1_AddDB.sql",
               "RelativeDocumentMoniker": "\u0411\u0430\u0437\u0430_\u0434\u0430\u043D\u043D\u044B\u0445\\L1_AddDB.sql",
